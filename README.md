@@ -2,8 +2,6 @@
 
 This application scrapes data from the ipl website and generates plots to visualize the batsmen , bowler and teams performance over the years.
 
-# Price Estimation for Resale Cars
-
 Steps:
 1. **Clone the Repository.**
 2. **create a virtual enviornment**
